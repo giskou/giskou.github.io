@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/giskou
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://giskou.com
+  * I am giskou (https://keybase.io/giskou) on keybase.
+  * I have a public key ASD6mnVSqmh17m8tSNJO9xt6N_Gx-4a8UIz5bqbWUbXdBwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101549ea8fd97c5d575f61920ebfba31f00bf18bd0096c9f066cd9a4c7c2a8e160f0a",
+      "host": "keybase.io",
+      "kid": "0120fa9a7552aa6875ee6f2d48d24ef71b7a37f1b1fb86bc508cf96ea6d651b5dd070a",
+      "uid": "2da82278e4a98d8f013f765a1882e319",
+      "username": "giskou"
+    },
+    "merkle_root": {
+      "ctime": 1502354476,
+      "hash": "15cf0f4e9d9a3ef2663d8533acef5ec403589e1bbc2efd6f05477773b18652b32d962a66e2b126f0f52aa00d8a09478be5e5f87fc3768e0bb3b8e21829ac8c98",
+      "hash_meta": "c0607ce1c4156fc32cef747ca161ac11aa07b2952953f75686c4770522d3c396",
+      "seqno": 1317171
+    },
+    "service": {
+      "hostname": "giskou.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.27"
+  },
+  "ctime": 1502354488,
+  "expire_in": 504576000,
+  "prev": "e25755a10aa0984b401ea8ca7af0a920e6cbb7414f7bb645ee4432ccef0a2534",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+pp1Uqpode5vLUjSTvcbejfxsfuGvFCM+W6m1lG13QcKp3BheWxvYWTFA0B7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNTQ5ZWE4ZmQ5N2M1ZDU3NWY2MTkyMGViZmJhMzFmMDBiZjE4YmQwMDk2YzlmMDY2Y2Q5YTRjN2MyYThlMTYwZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZmE5YTc1NTJhYTY4NzVlZTZmMmQ0OGQyNGVmNzFiN2EzN2YxYjFmYjg2YmM1MDhjZjk2ZWE2ZDY1MWI1ZGQwNzBhIiwidWlkIjoiMmRhODIyNzhlNGE5OGQ4ZjAxM2Y3NjVhMTg4MmUzMTkiLCJ1c2VybmFtZSI6Imdpc2tvdSJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwMjM1NDQ3NiwiaGFzaCI6IjE1Y2YwZjRlOWQ5YTNlZjI2NjNkODUzM2FjZWY1ZWM0MDM1ODllMWJiYzJlZmQ2ZjA1NDc3NzczYjE4NjUyYjMyZDk2MmE2NmUyYjEyNmYwZjUyYWEwMGQ4YTA5NDc4YmU1ZTVmODdmYzM3NjhlMGJiM2I4ZTIxODI5YWM4Yzk4IiwiaGFzaF9tZXRhIjoiYzA2MDdjZTFjNDE1NmZjMzJjZWY3NDdjYTE2MWFjMTFhYTA3YjI5NTI5NTNmNzU2ODZjNDc3MDUyMmQzYzM5NiIsInNlcW5vIjoxMzE3MTcxfSwic2VydmljZSI6eyJob3N0bmFtZSI6Imdpc2tvdS5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjI3In0sImN0aW1lIjoxNTAyMzU0NDg4LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImUyNTc1NWExMGFhMDk4NGI0MDFlYThjYTdhZjBhOTIwZTZjYmI3NDE0ZjdiYjY0NWVlNDQzMmNjZWYwYTI1MzQiLCJzZXFubyI6MTUsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAZG+fCIH1KI3eAQFAhIYzdvuiVWDWefVdkbY/8zrt2IFF4YYT/CtmHXfgHhgz+msPcq0iOVz8TiX1trHuKPCkC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHG/tJXVdIY0uqZgxmBBI4CmalIDGvWX/MBpTXOxE228o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/giskou
+
+==================================================================
